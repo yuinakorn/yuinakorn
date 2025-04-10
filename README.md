@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Hi there! I'm Yui, a passionate Full Stack Developer who loves building things that make a difference. I enjoy working with Python, JavaScript, etc. and exploring open-source projects, AI, web development. When I'm not coding, you can find me watching sci-fi, hiking. Let’s create something awesome together!
+Hi there! I'm Yui, a passionate Full Stack Developer who loves building things that make a difference. I enjoy working with Python, JavaScript, etc. and exploring open-source projects, AI, web development. When I'm not coding, you can find me watching sci-fi or drinking some beer🍺. Let’s create something awesome together!
 
 ### Skills
 
