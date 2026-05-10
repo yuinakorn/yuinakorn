@@ -1,27 +1,118 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yui
-===========================================================================================================================
+<!-- 
+  ╔══════════════════════════════════════╗
+  ║   $ whoami > /dev/null 2>&1          ║
+  ╚══════════════════════════════════════╝
+-->
 
-Full Stack Developer
---------------------
+<div align="center">
 
-Hi there! I'm Yui, a passionate Full Stack Developer who loves building things that make a difference. I enjoy working with Python, JavaScript, etc. and exploring open-source projects, AI, web development. When I'm not coding, you can find me watching sci-fi or drinking some beer🍺. Let’s create something awesome together!
+```
+  ██████╗ ███████╗██╗   ██╗    ███╗   ██╗██╗   ██╗██╗     ██╗
+  ██╔══██╗██╔════╝██║   ██║    ████╗  ██║██║   ██║██║     ██║
+  ██║  ██║█████╗  ██║   ██║    ██╔██╗ ██║██║   ██║██║     ██║
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║╚██╗██║██║   ██║██║     ██║
+  ██████╔╝███████╗ ╚████╔╝     ██║ ╚████║╚██████╔╝███████╗███████╗
+  ╚═════╝ ╚══════╝  ╚═══╝      ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
+```
 
-### Skills
+*ข้อมูลนี้ถูกเข้ารหัสเพื่อปกป้องผู้บริสุทธิ์*
 
+</div>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+---
 
+## `$ cat /proc/self/identity`
 
-### Socials
+```yaml
+role:         Computer Technical Officer @ Public Health Sector
+location:     Northern Thailand
+clearance:    [ REDACTED ]
+status:       Online  ██████████ 100%
+coffee_level: ████████░░  80%
+```
 
-<p align="left"> <a href="https://www.github.com/yuinakorn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+> "ถ้า ping ไม่ตอบ ก็แค่ traceroute ต่อไปเรื่อยๆ"
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## `$ ls -la ~/skills/`
 
-<a href="http://www.github.com/yuinakorn"><img src="https://github-readme-stats.vercel.app/api?username=yuinakorn&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yuinakorn's GitHub stats" /></a>
+<div align="center">
 
-<a href="https://github.com/yuinakorn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuinakorn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+| Domain | Stack |
+|--------|-------|
+| 🌐 **Network & Security** | Fortigate · Wireshark · Nmap |
+| 🦀 **Systems Dev** | Rust · C# · Python · Bash |
+| 🏥 **Health Informatics** | HL7 · FHIR · API Integration · Health Data Systems |
+| ☁️ **Infra** | Linux · Docker · Nginx · VPN |
+| 🔒 **Security** | Penetration Testing · Network Hardening · OSINT |
+
+</div>
+
+---
+
+## `$ top` — What I'm running right now
+
+```
+PID   PROCESS                          CPU%   STATUS
+───   ───────────────────────────────  ─────  ──────────
+001   health_data_api_integration      ██░░░  running
+002   network_hardening_project        ███░░  running
+003   rust_crosscompile_experiment     █░░░░  sleeping
+004   learning_something_new           █████  always running
+```
+
+---
+
+## `$ git log --oneline --all`
+
+- 🔧 `feat:` ผสาน API สาธารณสุขระดับจังหวัดกับระบบกลาง
+- 🔒 `fix:` hardening firewall rules รายอุปกรณ์
+- 🦀 `build:` cross-compile Rust → Windows EXE จาก macOS
+- 🌐 `infra:` ปรับ network topology สำหรับระบบ health informatics
+- 📡 `debug:` Socket.IO connection ไปยัง government endpoint
+
+---
+
+## `$ netstat -philosophy`
+
+```
+ฉันเชื่อว่า...
+
+  [x] Documentation ที่ดีคือ love letter ถึงอนาคตตัวเอง
+  [x] Security ไม่ใช่ feature — มันคือ foundation
+  [x] ระบบที่ดีที่สุดคือระบบที่คนไข้ได้รับบริการเร็วขึ้น
+  [x] ถ้าทำซ้ำมากกว่า 2 ครั้ง ก็ควร automate
+  [ ] Work-life balance  (still debugging...)
+```
+
+---
+
+## `$ ping me`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-[ REDACTED ]-181717?style=for-the-badge&logo=github)](https://github.com)
+[![Status](https://img.shields.io/badge/Status-Open_to_Collaborate-00d26a?style=for-the-badge)]()
+[![Location](https://img.shields.io/badge/Zone-GMT+7_🇹🇭-blue?style=for-the-badge)]()
+
+*Response time: usually within 24h — ขึ้นอยู่กับ incident ที่กำลัง handle อยู่*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔─────────────────────────────────────────╗
+│  Connection established.                │
+│  Packets lost: 0%                       │
+│  Latency: low                           │
+│  >>> Ready to collaborate <<<           │
+╚─────────────────────────────────────────╝
+```
+
+*EOF*
+
+</div>
