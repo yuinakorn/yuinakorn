@@ -84,6 +84,17 @@ PID   PROCESS                          CPU%   STATUS
   [x] ระบบที่ดีที่สุดคือระบบที่คนไข้ได้รับบริการเร็วขึ้น
   [x] ถ้าทำซ้ำมากกว่า 2 ครั้ง ก็ควร automate
   [ ] Work-life balance  (still debugging...)
+  [x] Firewall rule ที่ดีคือ rule ที่ไม่มีใครถามว่า "ทำไม"
+  [x] Log ทุกอย่าง — อนาคตตัวเองจะขอบคุณ
+  [x] Network ที่เงียบคือ network ที่ดี ไม่ใช่ network ที่ไม่มีใครดูแล
+  [x] ความเร็วของระบบ = ความเร็วที่คนไข้ได้รับยา
+  [x] Comment ในโค้ดคือจดหมายรักถึงคนที่ต้อง maintain ต่อ
+  [x] ถ้า vendor บอกว่า "secure by default" — อย่าเพิ่งเชื่อ
+  [x] Backup ไม่ใช่ option มันคือ oxygen
+  [x] ปัญหาส่วนใหญ่อยู่ที่ Layer 8 (คน)
+  [x] อธิบาย technical เป็น plain text ได้ = เข้าใจจริง
+  [x] Naming variables คือทักษะที่ยากที่สุดใน programming
+  [ ] Inbox zero  (estimated completion: never)
 ```
 
 ---
