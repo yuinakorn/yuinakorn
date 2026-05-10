@@ -66,7 +66,7 @@ PID   PROCESS                          CPU%   STATUS
 
 ## `$ git log --oneline --all`
 
-- 🔧 `feat:` ผสาน API สาธารณสุขระดับจังหวัดกับระบบกลาง
+- 🔧 `feat:` ผสาน API สาธารณสุขระระบบกลาง
 - 🔒 `fix:` hardening firewall rules รายอุปกรณ์
 - 🦀 `build:` cross-compile Rust → Windows EXE จาก macOS
 - 🌐 `infra:` ปรับ network topology สำหรับระบบ health informatics
